@@ -11,12 +11,7 @@ Other thing you need to know:
 - 💬 Ask me about Telegram Bot
 - 📫 Contact me on: hiddem
 
-### My Stats
-![Hyku-xd github lab](https://github-readme-stats.vercel.app/api?username=hyku-xd&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=hyku-xd&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/hyku-xd)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=hyku-xd)
 # My Stuffs:~
 
 - BSC COMPUTER SCIENCE 
