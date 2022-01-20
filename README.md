@@ -17,4 +17,4 @@ Other thing you need to know:
 - BSC COMPUTER SCIENCE 
 - BGMI HACKS MAKING
 - ANDROID STUDIO 
-- FUKING<< ✨
+
