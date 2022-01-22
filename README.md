@@ -1,15 +1,14 @@
-### I am hyku and welcome to my github profile.
-Let me introduce you about myself, my name is akash patil from maharastra; 18 y.o from india. My hobby is flirting as equal to fucking...
+# IAM AKASH FROM PUNE CITY & WELCOME TO MY GITHUB PAGE.
+Let me introduce you about myself, my name is akash patil from maharastra i am 19 years old.
 
 Other thing you need to know:
 
 - 🌱 I’m currently learning languages.
-      c lang ✅
-      c++ learning ❌
-      python learning ❌
+      C programing ✅
+      Not more python ❌
       
 - 💬 Ask me about Telegram Bot
-- 📫 Contact me on: hiddem
+- 📫 Contact me on: @BAZIGARYT
 
 
 # My Stuffs:~
